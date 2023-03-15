@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c4247756-c43e-4c88-92d7-02fa02eb7adf/deploy-status)](https://app.netlify.com/sites/glowing-medovik-86cdce/deploys)
 Netlify:  https://glowing-medovik-86cdce.netlify.app/ 
 
 Quick start:
